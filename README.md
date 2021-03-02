@@ -1,4 +1,4 @@
-![alt text](https://github.com/[thiagopetherson]/[task-list-todo-vuejs]/blob/[master]/todo.jpg?raw=true)
+![todo](https://user-images.githubusercontent.com/44420212/109703677-82741300-7b74-11eb-9d3c-90ff1f244ac7.jpg)
 
 # todo
 
