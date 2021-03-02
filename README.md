@@ -1,3 +1,5 @@
+![alt text](https://github.com/[thiagopetherson]/[task-list-todo-vuejs]/blob/[master]/todo.jpg?raw=true)
+
 # todo
 
 Projeto de uma lista de tarefas usando VueJS, com dados armazenados em LocalStorage. 
