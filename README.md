@@ -1,5 +1,10 @@
 # todo
 
+Projeto de uma lista de tarefas usando VueJS, com dados armazenados em LocalStorage. 
+Desenvolvido baseado em Vue CLI.
+
+Projeto feito de forma acadêmica com base no Curso de VueJS da "Equipe Cod3r"
+
 ## Project setup
 ```
 npm install
